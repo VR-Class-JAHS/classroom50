@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Virtual Reality",
+  "short_name": "virtual-reality",
+  "term": "",
+  "org": "VR-Class-JAHS",
+  "team": {
+    "id": 19714873,
+    "slug": "classroom50-virtual-reality"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19714876,
+      "slug": "classroom50-virtual-reality-teacher"
+    },
+    "hta": {
+      "id": 19714878,
+      "slug": "classroom50-virtual-reality-hta"
+    },
+    "ta": {
+      "id": 19714879,
+      "slug": "classroom50-virtual-reality-ta"
+    }
+  }
+}
