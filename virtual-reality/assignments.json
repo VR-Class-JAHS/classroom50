@@ -1,4 +1,23 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "unity-essentials-editor",
+      "name": "Unity Essentials Editor",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "VR-Class-JAHS",
+        "repo": "Unity-Essentials-Editor-assignment",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
